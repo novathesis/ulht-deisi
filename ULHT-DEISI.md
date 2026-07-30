@@ -1,8 +1,8 @@
-# Abstract: ulht-deisi-novathesis-vA.B.C
+# Abstract: novathesis-ulht-deisi-v8.0.0
 
 This is a customized LaTeX template for theses and reports at the **Departamento de Engenharia Informática e Sistemas de Informação da Universidade Lusófona de Humanidades e Tecnologias (DEISI-ULHT)**, following the most recent [ULHT norms for the elaboration and presentation of dissertations and theses (in Portuguese)](https://www.ulusofona.pt/media/normas-para-elaboracao-e-apresentacao-de-dissertacoes-e-teses.pdf). 
 
-This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (vA.B.C)**, trimmed down and optimized to provide DEISI-ULHT students with a streamlined experience, meeting DEISI-ULHT's academic formatting standards without the complexity of the original multi-institution template. 
+This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.0)**, trimmed down and optimized to provide DEISI-ULHT students with a streamlined experience, meeting DEISI-ULHT's academic formatting standards without the complexity of the original multi-institution template. 
 
 ### Key Features:
 
